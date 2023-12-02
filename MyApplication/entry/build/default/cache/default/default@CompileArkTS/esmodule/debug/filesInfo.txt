@@ -1,0 +1,2 @@
+/Users/ziyounian/DevEcoStudioProjects/MyApplication/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/pages/Index.js;com.example.myapplication/entry/ets/pages/Index;esm;entry/src/main/ets/pages/Index.ets;entry
+/Users/ziyounian/DevEcoStudioProjects/MyApplication/entry/build/default/cache/default/default@CompileArkTS/esmodule/debug/entry/src/main/ets/entryability/EntryAbility.js;com.example.myapplication/entry/ets/entryability/EntryAbility;esm;entry/src/main/ets/entryability/EntryAbility.ts;entry
