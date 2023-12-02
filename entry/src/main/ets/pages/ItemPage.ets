@@ -35,7 +35,7 @@ import {Header} from '../components/CommonComponents'
         Text('补贴：￥' + item.discount)
           .fontColor('#F36')
           .fontSize(18)
-      }else{
+      }else{sdzfas
         Text(item.name)
           .fontSize(20)
           .fontWeight(FontWeight.Bold)
