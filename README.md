@@ -6,3 +6,6 @@
 <img width="1489" alt="image" src="https://github.com/linkneo-cmd/First_harmonyos_project/assets/81950756/847e706c-83fd-459a-9ab3-48f075e3acd3">
 
 test
+
+完成任务后勾选时，任务条目灰显功能
+<img width="376" alt="image" src="https://github.com/linkneo-cmd/First_harmonyos_project/assets/81950756/f32330e4-1530-40bf-a068-f290bd3a8b28">
