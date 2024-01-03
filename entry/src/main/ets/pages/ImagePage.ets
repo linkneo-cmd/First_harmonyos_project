@@ -1,3 +1,5 @@
+import {Header} from '../components/CommonComponents'
+
 @Entry
 @Component
 struct Index {
@@ -5,6 +7,8 @@ struct Index {
 
   build() {
     Column() {
+      Header({title: '商品列表'})
+        .margin({bottom: 20})
       Row(){
         Image($r('app.media.icon'))
           .width(this.imageWidth)

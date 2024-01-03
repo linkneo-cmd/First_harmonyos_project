@@ -1,5 +1,10 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Index",
+    "pages/ImagePage",
+    "pages/ItemPage",
+    "pages/StatePage",
+    "pages/PropPage",
+    "pages/TestPage"
   ]
 }

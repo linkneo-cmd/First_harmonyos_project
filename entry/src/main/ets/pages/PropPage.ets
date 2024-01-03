@@ -1,3 +1,4 @@
+import {Header} from '../components/CommonComponents'
 
 //任务类
 @Observed
@@ -39,6 +40,8 @@ struct PropPage{
 
   build(){
     Column({space: 10}){
+      Header({title: '商品列表'})
+        .margin({bottom: 20})
       // 1.任务进度卡片
       TaskStatistics()
 

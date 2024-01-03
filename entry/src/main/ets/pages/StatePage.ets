@@ -1,3 +1,4 @@
+import {Header} from '../components/CommonComponents'
 
 class Person{
   name: string
@@ -22,6 +23,8 @@ struct StatePage2 {
   ]
   build() {
     Column() {
+      Header({title: '商品列表'})
+        .margin({bottom: 20})
       Text(`${this.p.name} : ${this.p.age}`)
         .fontSize(50)
         .fontWeight(FontWeight.Bold)
