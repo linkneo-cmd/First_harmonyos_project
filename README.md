@@ -12,3 +12,6 @@ router实现页面路由，同时在返回时，使用挽回弹窗
 <img width="807" alt="image" src="https://github.com/linkneo-cmd/First_harmonyos_project/assets/81950756/7debc715-7917-4e25-a7b2-435c5a636fd5">
 （挽回弹窗）
 <img width="725" alt="image" src="https://github.com/linkneo-cmd/First_harmonyos_project/assets/81950756/67b9d9dd-92f4-41dd-ac72-12ccecbe7fe3">
+
+小鱼游戏，方向键控制上下左右
+<img width="1604" alt="image" src="https://github.com/linkneo-cmd/First_harmonyos_project/assets/81950756/44591764-7f3b-4d5e-8f64-56d20ec530c0">
