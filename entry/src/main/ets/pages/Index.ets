@@ -19,7 +19,8 @@ struct Index {
     new RouterInfo('pages/ImagePage', '图片查看案例'),
     new RouterInfo('pages/ItemPage', '商品列表案例'),
     new RouterInfo('pages/StatePage', 'Jack和他的女友案例'),
-    new RouterInfo('pages/PropPage', '任务列表案例')
+    new RouterInfo('pages/PropPage', '任务列表案例'),
+    new RouterInfo('pages/AnimationPage','小鱼动画案例')
   ]
   build() {
       Column() {
