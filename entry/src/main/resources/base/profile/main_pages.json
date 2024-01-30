@@ -6,6 +6,7 @@
     "pages/StatePage",
     "pages/PropPage",
     "pages/TestPage",
-    "pages/AnimationPage"
+    "pages/AnimationPage",
+    "pages/LifeCirclePage"
   ]
 }

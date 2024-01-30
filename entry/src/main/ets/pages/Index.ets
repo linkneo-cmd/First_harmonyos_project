@@ -20,8 +20,33 @@ struct Index {
     new RouterInfo('pages/ItemPage', '商品列表案例'),
     new RouterInfo('pages/StatePage', 'Jack和他的女友案例'),
     new RouterInfo('pages/PropPage', '任务列表案例'),
-    new RouterInfo('pages/AnimationPage','小鱼动画案例')
+    new RouterInfo('pages/AnimationPage','小鱼动画案例'),
+    new RouterInfo('pages/LifeCirclePage','生命周期案例1'),
+    new RouterInfo('pages/TestPage1','生命周期案例2'),
   ]
+
+  tag: string = 'Index Page'
+
+  aboutToAppear(){
+    console.log(this.tag, 'about to appear')
+  }
+
+  onPageShow(){
+    console.log(this.tag, 'on page show')
+  }
+
+  onBackPress(){
+    console.log(this.tag, 'on back press')
+  }
+
+  onPageHide(){
+    console.log(this.tag, 'on page hide')
+  }
+
+  aboutToDisappear(){
+    console.log(this.tag, 'about to disappear')
+  }
+
   build() {
       Column() {
         Text(this.message)
