@@ -7,6 +7,8 @@
     "pages/PropPage",
     "pages/TestPage",
     "pages/AnimationPage",
-    "pages/LifeCirclePage"
+    "pages/LifeCirclePage",
+    "pages/TestPage1",
+    "pages/TestPage2"
   ]
 }
